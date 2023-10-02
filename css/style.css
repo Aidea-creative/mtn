@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: roboto;
+
+}
+header{
+    background-color: rgb(255, 196, 0);
+}
+.image{
+    display: block;
+    max-width: 10%;
+    height: auto;
+}
+.image2{
+    display: block;
+    max-width: 170%;
+    height: auto;
+}
+.section2{
+    max-height: 200px;
+}
+.inputs{
+    padding: 20px;
+}
+.btn{
+    background-color: rgb(167, 166, 164);
+    width: 250px;
+    border-radius: 30px;
+    height: 35px;
+}
+.btntext{
+    background-color: rgba(252, 227, 0, 0.897);
+    margin-left: 20px;
+    outline: none;
+    margin-top: 9px;
+    font-weight: 50px;
+    color: #fff;
+    
+}
+button{
+    outline: none;
+    border-radius: 30px;
+    width: 130px;
+    height: 25px;
+    outline: none;
+}
